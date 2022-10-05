@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨‍💻, I'm Abhishek</h1>
-<h3 align="center">Full Stack(MERN) Developer</h3>
+<h3 align="center">Full Stack(MERN) Developer | Open Source Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
