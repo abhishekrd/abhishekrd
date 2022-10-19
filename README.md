@@ -15,5 +15,5 @@
 
 [![@abhishekrd's Holopin board](https://holopin.me/abhishekrd)](https://holopin.io/@abhishekrd)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrd&show_icons=true&theme=dracula&title_color=ffa742&text_color=ffa82e&bg_color=420061&hide_border=true&locale=en" alt="abhishekrd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrd&show_icons=true&theme=dracula&title_color=ffa742&text_color=ffa82e&bg_color=21052e&hide_border=true&locale=en" alt="abhishekrd" /></p>
 
