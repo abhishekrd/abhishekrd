@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👨‍💻, I'm Abhishek</h1>
 <h3 align="center">Full Stack(MERN) Developer | Open Source Enthusiast</h3>
 
+<p align="left"> <a href="https://twitter.com/dhankeabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/dhankeabhishek?logo=twitter&style=for-the-badge" alt="dhankeabhishek" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/dhankeabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhankeabhishek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-dhanke-226354216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-dhanke-226354216" height="30" width="40" /></a>
 <a href="https://hashnode.com/@abhishekrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhishekrd" height="30" width="40" /></a>
 </p>
@@ -12,5 +15,5 @@
 
 [![@abhishekrd's Holopin board](https://holopin.me/abhishekrd)](https://holopin.io/@abhishekrd)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrd&show_icons=true&locale=en" alt="abhishekrd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrd&show_icons=true&theme=dracula&title_color=ffa742&text_color=ffa82e&bg_color=420061&hide_border=true&locale=en" alt="abhishekrd" /></p>
 
