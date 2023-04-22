@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Technologies⚡</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,bootstrap,html,css,js,tailwind,react,firebase,docker,redux,express,nodejs,mongodb,postman,vite,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,bootstrap,html,css,js,tailwind,next,react,firebase,docker,redux,express,nodejs,mongodb,postman,vite,netlify,vercel" />
 </p>
 
 [![@abhishekrd's Holopin board](https://holopin.me/abhishekrd)](https://holopin.io/@abhishekrd)
