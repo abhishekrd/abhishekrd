@@ -19,6 +19,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,git,bootstrap,html,css,js,tailwind,react,firebase,postgres,docker,redux,express,nodejs,mongodb,postman,vite,netlify,vercel" />
 </p>
 
+<h3 align="left">Exploring & Working on 🪄</h3> 
+<p>  <img src="https://skillicons.dev/icons?i=next" />  </p>
+
 [![@abhishekrd's Holopin board](https://holopin.me/abhishekrd)](https://holopin.io/@abhishekrd)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrd&show_icons=true&theme=dracula&title_color=ffa742&text_color=#2b7cff&bg_color=#001536&hide_border=true&count_private=true&locale=en" alt="abhishekrd" /></p>
