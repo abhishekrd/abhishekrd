@@ -19,8 +19,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,git,bootstrap,html,css,js,tailwind,react,firebase,postgres,docker,redux,express,nodejs,mongodb,postman,vite,netlify,vercel" />
 </p>
 
-<h3 align="left">Exploring & Working on 🪄</h3> 
-<p>  <img src="https://skillicons.dev/icons?i=next" />  </p>
 
 [![@abhishekrd's Holopin board](https://holopin.me/abhishekrd)](https://holopin.io/@abhishekrd)
 
