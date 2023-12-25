@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👨‍💻, I'm Abhishek</h1>
-<h3 align="center">A Passionate Full Stack Developer | Open Source & Communities</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=4000&pause=1000&color=F79200&center=true&width=1000&height=60&lines=FullStack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Open+Source%F0%9F%92%9A)](https://git.io/typing-svg)
  
