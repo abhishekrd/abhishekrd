@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👨‍💻, I'm Abhishek</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&pause=1000&color=00B0F7&center=true&random=false&width=1000&height=100&lines=FullStack+Web+Developer)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&pause=1000&color=00B0F7&center=true&random=false&width=1000&lines=()+%3D%3E+%7B+console.log(%22Hello%2C+World!%22)%7D;......Welcome+to+my+GitHub+Profile......)](https://git.io/typing-svg)
 <h3 align="left">Connect with me👨‍💻</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/abhishek-dhanke/">
